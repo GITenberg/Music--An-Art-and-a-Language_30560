@@ -1,0 +1,29 @@
+_repo: Music--An-Art-and-a-Language_30560
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 30560-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Spalding, Walter Raymond
+    birthdate: 1865
+    deathdate: 1962
+    gutenberg_agent_id: '34679'
+    url: http://www.gutenberg.org/2009/agents/34679
+description: ''
+gutenberg_bookshelf: Music
+gutenberg_issued: '2009-11-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30560'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'MT'
+- !lcsh 'Musical form'
+- !lcsh 'Music appreciation'
+- !lcc 'ML'
+title: 'Music: An Art and a Language'
+url: http://www.gutenberg.org/ebooks/30560
