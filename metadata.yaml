@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '34679'
     url: http://www.gutenberg.org/2009/agents/34679
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30560#Music--An-Art-and-a-Language
 gutenberg_bookshelf: Music
 gutenberg_issued: '2009-11-28'
 gutenberg_type: Text
